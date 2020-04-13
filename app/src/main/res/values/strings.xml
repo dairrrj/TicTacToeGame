@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tic Tac Toe Game</string>
+    <string name="android_turn">It\'s Android\'s turn.</string>
+    <string name="your_turn">It\'s your turn (X).</string>
+    <string name="tie">It\'s a tie!</string>
+    <string name="win">You won!</string>
+    <string name="lose">Android won!</string>
+    <string name="start">Start a New Game</string>
+    <string name="first">You go first.</string>
+    <string name="first2">Android go first.</string>
+    <string name="clear">Clear</string>
+    <string name="you_win">User Win</string>
+    <string name="android_win">Android Win</string>
+    <string name="tie2">Tie</string>
+    <string name="level">Level</string>
+    <string name="exit">Quit Game</string>
+    <string name="about_msg">About TicTacToe Game</string>
+    <string name="level1">Easy</string>
+    <string name="level2">Harder</string>
+    <string name="level3">Expert</string>
+    <string name="easy">You have chosen an easy mode!</string>
+    <string name="harder">You have chosen a harder mode!</string>
+    <string name="expert">You have chosen an expert mode!\n You can\'t win android in this mode.</string>
+    <string name="confirm">Confirm Exit</string>
+    <string name="sure">Are you sure you want to exit TicTacToe Game?</string>
+    <string name="yes">Exit</string>
+    <string name="no">Cancel</string>
+</resources>

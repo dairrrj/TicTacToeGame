@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">井字棋</string>
+    <string name="android_turn">轮到安卓了</string>
+    <string name="your_turn">轮到你了(X)</string>
+    <string name="tie">平局!</string>
+    <string name="win">你赢了!</string>
+    <string name="lose">安卓赢了!</string>
+    <string name="start">开始新游戏</string>
+    <string name="first">你先走</string>
+    <string name="first2">安卓先走</string>
+    <string name="clear">清零</string>
+    <string name="you_win">玩家胜</string>
+    <string name="android_win">安卓胜</string>
+    <string name="tie2">平局</string>
+    <string name="level">难度</string>
+    <string name="exit">退出游戏</string>
+    <string name="about_msg">关于井字棋</string>
+    <string name="level1">简单</string>
+    <string name="level2">困难</string>
+    <string name="level3">超难</string>
+    <string name="easy">你选择了简单模式!</string>
+    <string name="harder">你选择了困难模式!</string>
+    <string name="expert">你选择了超难模式!\n你无法在此模式下赢过安卓</string>
+    <string name="confirm">提示</string>
+    <string name="sure">你确定要退出游戏吗?</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+</resources>
